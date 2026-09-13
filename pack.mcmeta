@@ -9,12 +9,6 @@
       {
         "text": "\"Custom Breed Cooldown\" (custom_breed_cooldown)"
       },
-      "\n",
-      {
-        "translate": "custom_breed_cooldown.description",
-        "fallback": "Change the breed cooldown for mobs and villagers!",
-        "color": "#aaaaaa"
-      },
       "\n\n",
       {
         "translate": "jodek.version",
@@ -24,7 +18,7 @@
         "text": " "
       },
       {
-        "text": "2.6.3",
+        "text": "2.7.0",
         "color": "#55ff55"
       },
       "\n",
