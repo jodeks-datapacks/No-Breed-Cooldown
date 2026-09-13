@@ -4,10 +4,10 @@
       "trigger": "minecraft:bred_animals",
       "conditions": {
         "parent": {
-          "type": "minecraft:trader_llama"
+          "entity_type": "minecraft:trader_llama"
         },
         "partner": {
-          "type": "minecraft:trader_llama"
+          "entity_type": "minecraft:trader_llama"
         }
       }
     }

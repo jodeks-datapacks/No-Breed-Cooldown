@@ -4,10 +4,10 @@
       "trigger": "minecraft:bred_animals",
       "conditions": {
         "parent": {
-          "type": "minecraft:mule"
+          "entity_type": "minecraft:mule"
         },
         "partner": {
-          "type": "minecraft:mule"
+          "entity_type": "minecraft:mule"
         }
       }
     }

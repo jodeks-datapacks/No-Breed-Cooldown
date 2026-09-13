@@ -1,6 +1,5 @@
 {
   "values": [
-    "custom_breed_cooldown:setup",
-    "custom_breed_cooldown:load_message"
+    "custom_breed_cooldown:setup"
   ]
 }

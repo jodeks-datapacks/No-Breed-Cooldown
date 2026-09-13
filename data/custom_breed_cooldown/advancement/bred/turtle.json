@@ -4,10 +4,10 @@
       "trigger": "minecraft:bred_animals",
       "conditions": {
         "parent": {
-          "type": "minecraft:turtle"
+          "entity_type": "minecraft:turtle"
         },
         "partner": {
-          "type": "minecraft:turtle"
+          "entity_type": "minecraft:turtle"
         }
       }
     }

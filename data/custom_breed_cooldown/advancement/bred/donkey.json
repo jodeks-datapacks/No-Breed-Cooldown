@@ -4,10 +4,10 @@
       "trigger": "minecraft:bred_animals",
       "conditions": {
         "parent": {
-          "type": "minecraft:donkey"
+          "entity_type": "minecraft:donkey"
         },
         "partner": {
-          "type": "minecraft:donkey"
+          "entity_type": "minecraft:donkey"
         }
       }
     }
